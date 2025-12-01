@@ -1,6 +1,6 @@
-primary_name: "Shiwon Kim"
+primary_name: "Shuaichao Song"
 secondary_name: ""
-navbar_name: "Shiwon Kim"
+navbar_name: "Shuaichao Song 宋帅超"
 
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -10,10 +10,10 @@ positions:
 - name: M.S. in Digital Analytics
 
 
-email: "shiwonkim.sean@gmail.com"
+email: "shuaichaosongsdu@gmail.com"
 cv_link: https://shiwonkim.github.io/uploads/CV_ShiwonKim_one_page.pdf
-gscholar: 2M8pQ4MAAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: shiwonkim
+gscholar: JXWNnTkAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: shuaichaosong
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
