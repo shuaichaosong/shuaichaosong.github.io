@@ -53,14 +53,10 @@ education:
 #     Department of Electrical Engineering and Computer Science <br/>
 #     Ph.D. Student
 #   date: Sep. 2024 - present
-- name: Yonsei University
-  logo: /assets/images/badges/Yonsei.png
-  position: >- 
-    M.S., Digital Analytics <a href="https://shiwonkim.github.io/uploads/Masters_Thesis.pdf" target="_blank">[Thesis]</a> <br/>
+- name: CISPA Helmholtz Center for Information Security
+  logo: /assets/images/badges/CISPA.png
   description:
-    Advised by Prof. Yu Rang Park
-  date: Mar. 2023 - Aug. 2025
-  place: Seoul, Korea
+    Postdoc at CISPA Helmholtz Center for Information Security. Supervised by Dr. Yang Zhang.
 - name: Yonsei University
   logo: /assets/images/badges/Yonsei.png
   position: B.B.A., Business Administration
