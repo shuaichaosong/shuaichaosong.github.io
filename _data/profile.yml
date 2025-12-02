@@ -75,35 +75,16 @@ education:
   date: 2013.09-2017.06
 
 experience:
-- name: Yonsei University Health System
-  logo: /assets/images/badges/Yonsei.png
-  position: >- 
-    Research Assistant in AI
-  date: Jul. 2025 - Present
-  place: Seoul, Korea
-- name: Digital Healthcare Lab
-  logo: /assets/images/badges/Yonsei.png
-  position: >- 
-    Graduate Research Assistant <br/>
+- name: Shandong University
+  logo: /assets/images/badges/sdu.png
   description:
-    Advised by Prof. Yu Rang Park
-  date: Mar. 2023 - Jun. 2025
-  place: Seoul, Korea
-- name: Carnegie Mellon University
-  logo: /assets/images/badges/CMU.jpg
-  position: >- 
-    Visiting Scholar, Computer Science <br/>
+    Professor at School of Cyber Science and Technology, Shandong University.
+  date: 2025.01-current
+- name: Bell Lab
+  logo: /assets/images/badges/bell.png
   description:
-    Korean Government Fellowship
-  date: Aug. 2024 - Feb. 2025
-  place: Pittsburgh, PA
-- name: University of Washington
-  logo: /assets/images/badges/UW_gold.png
-  position: >- 
-    Undergraduate Exchange Student
-  date: Sep. 2018 - Jun. 2019
-  place: Seattle, WA
-
+    Research Intern at Bell Lab.
+  date: 2022.07-2022.10
 # awards:
 # - name: Award Name 2
 #   date: 2024
