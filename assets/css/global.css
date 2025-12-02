@@ -117,7 +117,7 @@ div.lazy {
 /* 使用 #navbar-year 增加优先级 */
 #navbar-year .nav-link.active {
     /* 强制应用背景色。请将 #800020 替换为你想要的颜色 */
-    background-color: #007bff !important; 
+    background-color: #00ff00 !important; 
     
     /* 强制应用文字颜色，确保在深色背景上清晰可见 */
     color: #ffffff !important; 
