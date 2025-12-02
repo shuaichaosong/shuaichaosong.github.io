@@ -5,9 +5,9 @@ navbar_name: "Shuaichao Song"
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
-- name: Research Assistant in AI
-- name: <a href="https://yuhs.severance.healthcare/yuhs-en/index.do" target="_blank">Yonsei University Health System (YUHS)</a>
-- name: M.S. in Digital Analytics
+- name: 1st year Ph.D.Student
+- name: <a href="https://cst.qd.sdu.edu.cn/" target="_blank">School of Cyber Science and Technology, Shandong University</a>
+- name: Supervisor: Professor Zheng Li
 
 
 email: "shuaichaosongsdu@gmail.com"
