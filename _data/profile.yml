@@ -6,9 +6,8 @@ positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
 - name: 1st year Ph.D.Student
-#- name: <a href="https://cst.qd.sdu.edu.cn/" target="_blank">School of Cyber Science and Technology, Shandong University</a>
-- name: School of Cyber Science and Technology, Shandong University
-- name: Supervisor: Prof. Zheng Li
+- name: <a href="https://cst.qd.sdu.edu.cn/" target="_blank">School of Cyber Science and Technology, Shandong University</a>
+- name: Supervisor-Prof. Zheng Li
 
 
 email: "shuaichaosongsdu@gmail.com"
