@@ -1,7 +1,7 @@
 ---
 title:          "Classification Models for Arthropathy Grades of Multiple Joints Based on Hierarchical Continual Learning"
 date:           2025-03-24
-selected:       true
+selected:       false
 type:           publication
 tags:           ["# medical imaging", "# continual learning"]
 pub:            "La Radiologia Medica"

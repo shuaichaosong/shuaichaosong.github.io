@@ -11,14 +11,17 @@ pub:            "USENIX Security 2025"
 # pub_date:       "2025"
 semantic_scholar_id: aa7d500086c0ad534dbe6a705003d794573d925a  # use this to retrieve citation count
 abstract: >-
-  Training a machine learning model with data following a meaningful order, i.e., from easy to hard, has been proven to be effective in accelerating the training process and achieving better model performance. The key enabling technique is curriculum learning(CL), which has seen great success and has been deployed in areas like image and text classiffcation. Yet, how CL affects the privacy of machine learning is unclear. Given that CL changes the way a model memorizes the training data, its inffuence on data privacy needs to be thoroughly evaluated. To ffll this knowledge gap, we perform the first study and leverage membership inference attack (MIA) and attribute inference attack (AIA) as two vectors to quantify the privacy leakage caused by CL.
+  Vision-Language Models (VLMs), built on pre-trained vision encoders and large language models (LLMs), have shown exceptional multi-modal understanding and dialog capabilities, positioning them as catalysts for the next technological revolution. However, while most VLM research focuses on enhancing multi-modal interaction, the risks of data misuse and leakage have been largely unexplored. This prompts the need for a comprehensive investigation of such risks in VLMs.
 cover:          /assets/images/covers/joint_teaser.png
 authors:
-  - Joann Qiongna Chen
-  - Xinlei He
+  - Yuke Hu
   - Zheng Li
+  - Zhihao Liu
   - Yang Zhang
-  - Zhou Li
+  - Zhan Qin#
+  - Kui Ren
+  - Chun Chen
 links:
-  Paper: https://par.nsf.gov/biblio/10637160
+  Paper: https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-977-hu-yuke.pdf
+  Code: https://github.com/YukeHu/vlm_mia
 ---
