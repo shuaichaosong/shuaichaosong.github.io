@@ -1,7 +1,7 @@
 ---
 title:          "Does Prior Data Matter? Exploring Joint Training in the Context of Few-Shot Class-Incremental Learning"
 date:           2025-10-20
-selected:       true
+selected:       false
 type:           publication
 tags:           ["# continual learning", "# few-shot learning"]
 pub:            "International Conference on Computer Vision (ICCV) 2025 CLVision"

@@ -11,7 +11,7 @@ pub:            "USENIX Security 2025"
 # pub_date:       "2025"
 semantic_scholar_id: aa7d500086c0ad534dbe6a705003d794573d925a  # use this to retrieve citation count
 abstract: >-
-  Vision-Language Models (VLMs), built on pre-trained vision encoders and large language models (LLMs), have shown exceptional multi-modal understanding and dialog capabilities, positioning them as catalysts for the next technological revolution. However, while most VLM research focuses on enhancing multi-modal interaction, the risks of data misuse and leakage have been largely unexplored. This prompts the need for a comprehensive investigation of such risks in VLMs.
+  Vision-Language Models (VLMs), built on pre-trained vision encoders and large language models (LLMs), have shown exceptional multi-modal understanding and dialog capabilities, positioning them as catalysts for the next technological revolution. However, while most VLM research focuses on enhancing multi-modal interaction, the risks of data misuse and leakage have been largely unexplored. This prompts the need for a comprehensive investigation of such risks in VLMs. ...
 cover:          /assets/images/covers/joint_teaser.png
 authors:
   - Yuke Hu
