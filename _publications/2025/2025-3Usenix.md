@@ -1,7 +1,7 @@
 ---
 title:          "Enhanced Label-Only Membership Inference Attacks with Fewer Queries"
 date:           2025-01-03
-selected:       true
+selected:       false
 #type:           publication
 #tags:           ["# continual learning", "# few-shot learning"]
 pub:            "USENIX Security 2025"

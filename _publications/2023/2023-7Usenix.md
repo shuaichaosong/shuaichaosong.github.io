@@ -1,7 +1,7 @@
 ---
 title:          "UnGANable: Defending Against GAN-based Face Manipulation"
 date:           2023-01-07
-selected:       false
+selected:       true
 #type:           publication
 #tags:           ["# continual learning", "# few-shot learning"]
 pub:            "USENIX Security 2023"
