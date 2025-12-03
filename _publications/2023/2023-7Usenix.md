@@ -19,7 +19,7 @@ authors:
   - Ahmed Salem
   - Michael Backes
   - Mario Fritz
-  - Yang Zhang
+  - Yang Zhang#
 links:
   Paper: https://arxiv.org/abs/2210.00957
   Code: https://github.com/zhenglisec/UnGANable
