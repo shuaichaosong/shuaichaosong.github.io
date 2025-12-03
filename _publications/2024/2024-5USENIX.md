@@ -12,7 +12,7 @@ pub:            "USENIX Security 2024"
 semantic_scholar_id: 468a78d431be0d6290bb3007e6920e15761b751e  # use this to retrieve citation count
 abstract: >-
   While advanced machine learning (ML) models are deployed in numerous real-world applications, previous works demonstrate these models have security and privacy vulnerabilities. Various empirical research has been done in this field. However, most of the experiments are performed on target ML models trained by the security researchers themselves. Due to the high computational resource requirement for training advanced models with complex architectures, researchers generally choose to train a few target models using relatively simple architectures on typical experiment datasets. We argue that to understand ML models' vulnerabilities comprehensively, experiments should be performed on a large set of models trained with various purposes (not just the purpose of evaluating ML attacks and defenses). ...
-cover:          /assets/images/covers/joint_teaser.png
+cover:          /assets/images/covers/2024-5USENIX.png
 authors:
   - Boyang Zhang
   - Zheng Li
