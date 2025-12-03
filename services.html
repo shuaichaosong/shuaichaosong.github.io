@@ -32,11 +32,23 @@ container_class: container-xl
         .content-item:last-child {
             border-bottom: none;
         }
-        /* 清除列表项的默认样式 */
+
+        /* 清除列表项的默认样式 - 已修改以显示圆点 */
         .content-list {
-            list-style: disc; /* 移除点或数字 */
-            padding-left: 0;
+            list-style: disc; 
+            list-style-position: inside; /* ***** 确保黑点显示在内容区域内部 ***** */
+            padding-left: 1rem; /* 增加左侧内边距，以便显示圆点 */
             margin-bottom: 0;
+        }
+
+       /* 为了在 li 之间添加分隔线，我们需要一个自定义的 li 样式 */
+       .content-list li {
+           /* 移除之前的 padding: 1rem 0;，让文本紧贴黑点 */
+           padding: 0.5rem 1.5rem 0.5rem 0; /* 调整内边距：上右下左 */
+           border-bottom: 1px solid #eee;
+        }
+        .content-list li:last-child {
+           border-bottom: none;
         }
         
         /* 侧边导航栏固定位置 */
